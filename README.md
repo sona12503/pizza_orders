@@ -1,0 +1,2 @@
+SQL Project: Pizza Orders Analysis
+This project involves analyzing pizza sales data using SQL to uncover valuable insights into ordering patterns, revenue generation, and customer preferences. The data is integrated from three tables: pizza prices, order quantities, and time/date details. Key outcomes of the project include calculating total revenue, identifying the most common pizza size ordered, and determining the total number of orders placed. These findings can help optimize pricing strategies and improve operational efficiency.
